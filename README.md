@@ -10,7 +10,7 @@
 -README.MD
 ```
 ## 使用方式
-A：在AI Studio的脚本任务上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
+A：在AI Studio的脚本任务上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/1904532?shared=1)
 B：在配置比较好的服务器上运行
 
 # A.摘要
