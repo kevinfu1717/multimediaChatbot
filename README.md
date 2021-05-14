@@ -483,3 +483,5 @@ WECHATY_PUPPET_SERVICE_TOKEN=your_write_id_what_you_like#自定义的唯一id
 
 4.本项目参考了细菌,GT的项目，在此表示感谢
 
+[![](https://ai-studio-static-online.cdn.bcebos.com/99a781a66f8043a2a898e9c8f51ae0043184acc8448543cb9ccad520615134cd)](https://aistudio.baidu.com/aistudio/projectdetail/1905384)
+
