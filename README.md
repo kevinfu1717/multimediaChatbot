@@ -1,5 +1,7 @@
 # Paddlehub+Wechaty微信聊天机器人--多轮情景吐槽,emoi及打肿脸视频动态实时生成并回复
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https:///player.bilibili.com/player.html?aid=332894608&bvid=BV1nA41157i2&cid=335872593&page=1)
+
 ## 项目描述
 构建了可用于多个对话框架的场景型对话的聊天机器人。支持吐槽类情景及情感倾诉型情景。使用wechaty，结合Paddlehub的人脸特征点、动漫人脸生成、对联生成、情感分类，ernie迁移，人脸变胖
 
