@@ -1,4 +1,4 @@
-# Paddlehub+Wechaty微信聊天机器人--多轮情景吐槽,emoi及打肿脸视频动态实时生成并回复
+# Paddlehub+Wechaty微信聊天机器人--多轮对话吐槽,emoi及打肿脸视频动态实时生成并回复
 
 
 [![Watch the video](https://github.com/kevinfu1717/multimediaChatbot/blob/main/test_vidoe_Moment.jpg?raw=true)](https:///player.bilibili.com/player.html?aid=332894608&bvid=BV1nA41157i2&cid=335872593&page=1)
