@@ -58,7 +58,7 @@ B：在配置比较好的服务器上运行
 
 
 
-| 序号 | 模块 | 简介 |  效果 | 主要脚本 |调用的Paddlehub模型 |
+| 序号 | 模块 | 简介 |  效果 | 主要脚本 |调用的模型 |
 | ---- | -------- | -------- | -------- | ------------ | ----------------- |
 | 3.1 | 情感分类<br>模块     | 获取用户输入内容的情感倾向及程度（置信度） |       | emotionModule.py      |结合emotion_detection_textcnn<br>模型      |
 | 3.2 | 漫画人脸<br>生成     | 调整图片尺寸或增加图片的纹理复杂度，<br>中值滤波，再卡通生成（不然脸上会很花） |  ![](https://ai-studio-static-online.cdn.bcebos.com/e509e94f3b9c4482b7b2c8806d10dd29e54aba4bfc3f47d19f50b1b0b39888cb)    | cartonModule.py    | 结合AnimeGan模型      |
